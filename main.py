@@ -1,7 +1,7 @@
 #%%
 #Group 4
 #Nguyễn Quang Tùng 	19110141
-#Chu Nguyễn Hoàng Sơn 	19119128
+#contact me via gmail: tt.quangtung.ld@gmail.com
 from tkinter import *
 from tkinter.filedialog import askopenfilename
 from PIL import Image, ImageTk
