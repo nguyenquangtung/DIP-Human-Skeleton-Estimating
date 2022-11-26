@@ -4,7 +4,7 @@ Link video demo: https://youtu.be/DQVGjCHT1J4
 
 ﻿# About project
 
-In this project we will use Image processing which performs some operations on an image, in order to get the human skeleton estimation from the image or frame (from video). But before that, we need to apply Pattern recognition so that the app will automatically detect human parts by using machine learning algorithms.
+<h4>In this project we will use Image processing which performs some operations on an image, in order to get the human skeleton estimation from the image or frame (from video). But before that, we need to apply Pattern recognition so that the app will automatically detect human parts by using machine learning algorithms.</h4>
 
 
 <h2>This is list of used libraries</h2>
