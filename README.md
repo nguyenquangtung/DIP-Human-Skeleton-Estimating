@@ -8,6 +8,7 @@ In this project we will use Image processing which performs some operations on a
 
 
 <h2>This is list of used libraries</h2>
+We used CNN, cvzone/mediapipe, OpenCV (CV2), tkinter ....
 
 ![New Bitmap Image](https://user-images.githubusercontent.com/59195029/204079521-512acc7c-fb96-4e3f-99c6-b5a2cbd7a9ca.jpg)
 
