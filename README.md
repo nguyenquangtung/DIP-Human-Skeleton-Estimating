@@ -1,4 +1,5 @@
 ﻿# Human-Skeleton-Estimating
+ Application Human Skeleton Estimating using image processing and pattern recognition
 Video demo link: https://youtu.be/DQVGjCHT1J4
 <br>This video is my Final Project (Image Processing Course) about: HUMAN SKELETON ESTIMATING FROM IMAGE (VIDEO) USING IMAGE PROCESSING AND PATTERN RECOGNITION TECHNIQUES <br>
 
